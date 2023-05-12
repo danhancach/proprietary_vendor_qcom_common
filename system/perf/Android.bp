@@ -56,3 +56,14 @@ dex_import {
 	jars: ["proprietary/system/framework/UxPerformance.jar"],
 }
 
+dex_import {
+	name: "com.qualcomm.qti.imscmservice@1.0-java",
+	owner: "qcom/common",
+	jars: ["proprietary/system/framework/com.qualcomm.qti.imscmservice@1.0-java.jar"],
+}
+
+dex_import {
+	name: "vendor.qti.hardware.sensorscalibrate-V1.0-java",
+	owner: "qcom/common",
+	jars: ["proprietary/system/framework/vendor.qti.hardware.sensorscalibrate-V1.0-java.jar"],
+}

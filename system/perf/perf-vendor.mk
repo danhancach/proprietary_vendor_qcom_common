@@ -67,4 +67,6 @@ PRODUCT_PACKAGES += \
     workloadclassifier \
     QPerformance \
     QXPerformance \
-    UxPerformance
+    UxPerformance \
+    com.qualcomm.qti.imscmservice@1.0-java \
+    vendor.qti.hardware.sensorscalibrate-V1.0-java
